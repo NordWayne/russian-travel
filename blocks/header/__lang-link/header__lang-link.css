@@ -1,0 +1,10 @@
+
+.header__lang-link{
+    text-decoration: none;
+    color:#ffffff;
+    font-size: 24px;
+    margin-left:18px;
+}
+.header__lang-link:first-child{
+    margin-left:0;
+}

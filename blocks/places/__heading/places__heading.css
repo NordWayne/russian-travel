@@ -1,0 +1,9 @@
+.places__heading{
+    display:flex;
+    margin-bottom: 48px;
+}
+@media screen and (max-width:767px){
+    .places__heading{
+       margin-bottom:32px;
+    }
+}

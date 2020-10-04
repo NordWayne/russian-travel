@@ -1,0 +1,9 @@
+.places__website{
+    align-self: flex-end;
+    margin-left: 40px;
+}
+@media screen and (max-width:767px){
+    .places__website{
+       display: none;
+    }
+}

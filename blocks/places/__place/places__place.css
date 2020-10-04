@@ -1,0 +1,13 @@
+.places__place{
+    display: flex;
+    flex-direction: column;
+    margin-bottom:80px;    
+}
+.places__place:last-child{
+    margin-bottom:0;
+}
+@media screen and (max-width:767px){
+    .places__place{
+       margin-bottom:48px;
+    }
+}
