@@ -9,3 +9,6 @@
 
 ## Планы на проект
  - Посадить найт на Wordpress, чтобы можно было добавлять фотографии и статьи
+
+ Проект посмотреть можно по  [ссылке](https://students-yandex.github.io/russian-travel/index.html).
+

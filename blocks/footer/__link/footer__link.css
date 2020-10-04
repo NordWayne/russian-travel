@@ -6,3 +6,7 @@
 .footer__link:hover{
     color:#AAAAAA;
 }
+.footer__link:visited{
+    color:white;
+    text-decoration: none;
+}
