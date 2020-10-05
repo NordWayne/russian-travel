@@ -21,9 +21,10 @@
 
 @media screen and (max-width:767px){
     .places__title{
-        width:288px;
+        max-width:288px;
+        margin:auto;
         font-size: 32px;
         line-height: 35px;
-        margin-left:16px;
+        
     }
 }

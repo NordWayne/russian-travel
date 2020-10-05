@@ -4,7 +4,7 @@
     transition: color 0.8s;
 }
 .footer__link:hover{
-    color:#AAAAAA;
+    opacity: 0.8;
 }
 .footer__link:visited{
     color:white;

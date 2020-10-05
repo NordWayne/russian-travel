@@ -1,13 +1,14 @@
 .header{
     box-sizing: border-box;
     margin:auto;
-    height:52px;
+    min-height:52px;
     width:100%;
     padding-top:28px;
     display: flex;
     justify-content: space-between;
     background:#2A2C2F;
 }
+
 @media screen and (max-width: 767px) {
     .header {
       padding-top:16px;
