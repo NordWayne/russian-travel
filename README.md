@@ -1,14 +1,14 @@
 
-# Проект о путешествиях по России 
-Проект создан в ходе прохождения курса "Веб-разработчик" в Яндекс.Практикуме. На этом сайте можно прочитать и
-посмотреть на красивые места, которые можно посетить в России.
-## Использованные технологии:
- - HTML5 семантическая вёрстка
+# Russia Travel Project 
+The project was created during the course "Web developer" in Yandex.Praktikum. On this website you can read and
+look at the beautiful places you can visit in Russia.
+## Technologies:
+ - HTML5 semantic layout
  - CSS3 flexbox,grid
- - Адаптивность с медиазапросами
+ - Adaptive
 
-## Планы на проект
- - Посадить найт на Wordpress, чтобы можно было добавлять фотографии и статьи
+## Plans
+ - Make the website multilingual
 
- Проект посмотреть можно по  [ссылке](https://nordwayne.github.io/russian-travel/index.html).
+Link: https://nordwayne.github.io/russian-travel/index.html
 
